@@ -1,0 +1,1 @@
+Oh, and the PM41(2) has slightly different timing - if you have problems with the chip being detected then try moving the wire from XLAT/ to XCLK/ - this basically triggers the detection at the start of the command frame rather than at the end.

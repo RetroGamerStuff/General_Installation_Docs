@@ -1,0 +1,25 @@
+*********************** Mayumi PSX MOD-Chips  2000/09/27 ***********************
+  PS-One MOD   Fix Ext_RC -> Int_RC_OSC  ,    New release  SCEE, SCEA codes.
+********************************************************************************
+
+Mayumi PS-One MOD-Chip (Mayumi V5.1)
+  This HEX code is PS-One optimized Chip. Based on MayumiV4 MOD.
+  Simple 6 Wire MOD! Easy install!
+
+**Mode change method**
+  Power on, CD-DOOR open for 5sec. 
+  PS-One Strongest Mode --> Disable Mode
+
+**Install**
+  This MOD-Chip is support MODE & Status LED! (Pin2). 
+  
+  Pin2 ---|<|---- 120 ---- Vcc 
+          LED     Reg
+
+       Good luck!!
+
+----------------------------------------------------------------------------------
+   I want Cracks & Warez & DC GAMES Informations.. if you know its. pls inform me.
+                             or..
+   If you have opinion this mod chip, pls mail me mayumi@syste.ms
+----------------------------------------------------------------------------------
