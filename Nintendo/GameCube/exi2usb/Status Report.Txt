@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [exi2usb.PRJPCB]
+   Generated File[exi2usb.GTL]
+   Generated File[exi2usb.GBL]
+   Generated File[exi2usb.GTO]
+   Generated File[exi2usb.GBO]
+   Generated File[exi2usb.GTP]
+   Generated File[exi2usb.GBP]
+   Generated File[exi2usb.GTS]
+   Generated File[exi2usb.GBS]
+   Generated File[exi2usb.GKO]
+   Generated File[exi2usb.GM1]
+   Generated File[exi2usb.GPT]
+   Generated File[exi2usb.GPB]
+   Generated File[exi2usb.GD1]
+   Generated File[exi2usb.GG1]
+   Generated File[exi2usb.RUL]
+   Generated File[exi2usb.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 2:08:30 PM On 6/30/2010

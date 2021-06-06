@@ -1,0 +1,24 @@
+SmartXX LCD wiring that does work :
+SmartXX Pin 1 is in the centre to the right of the jumper pins.
+LCD pin 1 is next to the corner (pin 16 is in the middle)
+
+  Pin No   Pin No   Symbol     Level           Description
+Smartxx   LCD
+     4          1         VSS          0V              Ground
+     3          2         VDD          5V              Supply Voltage for logic (VCC 5.0V)
+     6          3         VO           (Variable)      Operating voltage for LCD
+     5          4         RS           H/L             H: DATA, L: Inst code
+     8          5         R/W          H/L             H: Read L: Write
+     7          6         E            H,H(L           Chip enable signal (E)
+                7         DB0          H/L             Data bit 0
+                8         DB1          H/L             Data bit 1
+                9         DB2          H/L             Data bit 2
+                10        DB3          H/L             Data bit 3
+     10         11        DB4          H/L             Data bit 4
+     9          12        DB5          H/L             Data bit 5
+     12         13        DB6          H/L             Data bit 6
+     11         14        DB7          H/L             Data bit 7
+     1          15        A              -             LED + (VCC 3.3V)
+     2          16        K              -             LED - (PWM)
+
+cool.gif Always remember to check your contrast dial on your SmartXX if you have not text showing on the LCD. If your using HDD cable (or any other multi strand cable wink.gif ) check you have no stray strands and this also has been raised as a problem on other forums.
