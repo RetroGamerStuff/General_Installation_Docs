@@ -1,0 +1,5 @@
+How to program Homebrew Matrix Infinity Green Dot:
+Put the firmware CD in the PS2 and put the PS2 to STANDBY. 
+RESET Press and leave pressed until blue light EJECT button. 
+Loosen RESET button and load the firmware CD. 
+Follow the onscreen instructions to complete the programming.
